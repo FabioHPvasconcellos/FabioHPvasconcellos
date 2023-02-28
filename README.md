@@ -1,4 +1,4 @@
-# Olá! Aqui é o Fabio
+# 👋🏻Olá! Aqui é o Fabio
 
 - ✍🏻estudando Sistemas de Informação.
 
